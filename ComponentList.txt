@@ -1,0 +1,10 @@
+----------Component list for GoLPyEntity.py----------
+GoLPyEntity.py - main file
+GoLSpawnSet.py - defines content on board
+GoLConfig.py - configuration file
+GoLEntities.py - defines entities placeable on board
+
+
+-----------------------------------------------------
+GoLPyStripped.py requires only GoLPyEntities.py to run.
+Doesn't non-standard colors.
