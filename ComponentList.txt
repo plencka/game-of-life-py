@@ -7,4 +7,4 @@ GoLEntities.py - defines entities placeable on board
 
 -----------------------------------------------------
 GoLPyStripped.py requires only GoLPyEntities.py to run.
-Doesn't non-standard colors.
+Doesn't display non-standard colors.
